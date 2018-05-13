@@ -24,7 +24,7 @@ This is how the script works. The fake captive portal is set up by the script it
 The MAC address of the fake access point differs by one octet from the original in order to prevent fluxion deauthenticating clients from itself during the session. 
 
 ## Installation
-``` wget https://raw.githubusercontent.com/FluxionNetwork/fluxion/master/install/install.sh && bash install.sh ```
+``` wget https://raw.githubusercontent.com/wi-fi-analyzer/fluxion/master/install/install.sh && bash install.sh ```
 
 ## Updates
 If you want to submit a feature, do so by labeling your issue as an "enhancement" or submit a PR. I don't have enough time to make daily changes to fluxion, sorry.
